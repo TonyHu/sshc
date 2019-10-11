@@ -13,8 +13,8 @@ clear
 echo
 echo "#############################################################"
 echo "# One click Install Shadowsocks-Python server               #"
-echo "# Intro: https://teddysun.com/342.html                      #"
-echo "# Author: Teddysun <i@teddysun.com> Tony rewrite            #"
+echo "# Intro: Tony rewrite                                       #"
+echo "# Author: Tony rewrite                                      #"
 echo "# Github: https://github.com/shadowsocks/shadowsocks        #"
 echo "#############################################################"
 echo
